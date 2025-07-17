@@ -11,19 +11,6 @@
     font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-
-/* Variables */
-/* :root {
-            --primary-color: #6070FF;
-            --secondary-color: #D9D9D9;
-            --accent-color: #FF6464;
-            --text-color: #172B4D;
-            --text-secondary: #344563;
-            --card-bg: #252525;
-        } */
-
-
-
 div {
     box-sizing: border-box;
     align-content: baseline;
@@ -32,14 +19,7 @@ div {
 /* Base Styles */
 body {
     background-color: #DFE1E6;
-    /* line-height: 1.6;
-            overflow-x: hidden; */
 }
-
-/* a {
-            text-decoration: none;
-            color: var(--text-color);
-        } */
 
 h1 {
     font-size: 40px;
@@ -163,13 +143,6 @@ p {
     margin-bottom: 20px;
     text-align: left;
 }
-
-/* .me {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 10px;
-} */
 
 .icon-row {
     display: flex;
